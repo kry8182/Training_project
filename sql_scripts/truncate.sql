@@ -1,0 +1,10 @@
+truncate table de1m.krlv_stg_cards;
+truncate table de1m.krlv_stg_cards_del;
+truncate table de1m.krlv_stg_accounts;
+truncate table de1m.krlv_stg_accounts_del;
+truncate table de1m.krlv_stg_clients;
+truncate table de1m.krlv_stg_clients_del;
+truncate table de1m.krlv_stg_blcklst;
+truncate table de1m.krlv_stg_transactions;
+truncate table de1m.krlv_stg_terminals;
+truncate table de1m.krlv_stg_terminals_del;
